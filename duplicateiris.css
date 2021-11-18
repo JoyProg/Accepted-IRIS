@@ -1,0 +1,1317 @@
+html,body{
+  overflow-x: hidden;
+}
+.carousel-item{
+  height:30rem;
+  background:rgb(91, 15, 29);;
+  color:white;
+  position: relative;
+  background-position: center;
+  background-size:cover;
+}
+.containernew{
+  position:absolute;
+  bottom:0;
+  left:0;
+  right:0;
+  padding-bottom: 50px;
+  padding-left: 150px;
+  margin-top:70px;
+
+}
+.containernewone{
+  position:absolute;
+  bottom:0;
+  left:0;
+  right:0;
+  padding-bottom: 130px;
+  padding-left: 150px;
+  
+}
+.containernewtwo{
+  position:absolute;
+  bottom:0;
+  left:0;
+  right:0;
+  padding-bottom: 80px;
+  padding-left: 150px;
+}
+
+.containernewthird{
+  position:absolute;
+  bottom:0;
+  left:0;
+  right:0;
+  padding-bottom: 100px;
+  padding-left: 150px;
+  
+}
+
+.overlay-image{
+  position:absolute;
+  bottom:0;
+  left:0;
+  right:0;
+  top:0;
+  background-position: center;
+  background-size:cover;
+  opacity:0.7;
+}
+
+.first {
+  background-color: black !important;
+  }
+
+.registered{
+  font-size:40px ;
+  font-weight: bolder;
+}
+.limited{
+  font-size:25px ;  
+}
+.nigeria{
+  font-size:50px ;
+  font-weight: bolder;
+}
+.responsible{
+  font-size:25px ;  
+}
+.management{
+  font-size:50px ;
+  font-weight: bolder;
+  /* color:black */
+}
+.establish{
+  font-size:25px ; }
+  /* color:black
+} */
+.areas{
+  font-size:50px ;
+  font-weight: bolder;  
+}
+.voters{
+  font-size:25px ;
+  margin-left: -10px;  
+}
+
+.container2{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 100px;
+  /* margin-right: -50px; */
+}
+
+.harmonized{
+  text-align: center;
+  margin-top:33px;
+  margin-bottom:100px;
+
+}
+
+.electronic{
+  font-size:30px;
+  color:rgb(91, 15, 29);
+  padding-bottom:px;
+}
+.wider{
+ 
+  font-size: 20px;
+  color:#000000;
+}
+
+.nation{
+  font-size: 20px;
+  color:#000000;
+  /* font-weight: bold; */
+}
+.list-group-item{
+  color:green;  
+}
+/* 
+.rounded{
+  margin-right: 10px;
+} */
+
+
+div.project{
+  box-shadow: rgba(0, 0, 0, 0.08) 0px 5px 15px;
+  background: rgb(255, 255, 255);
+  padding-top: 25px;
+}
+
+/* .project:hover{
+  background-color:#2d5702;
+  color:#fff */
+/* } */
+  .title{
+      font-weight:bolder;
+      font-size: 18px; 
+     color: rgb(91, 15, 29)!important;  
+     padding-top:30px
+  } 
+
+  .secondborder{
+  margin-top: 50px;}
+
+.operations{
+  margin-bottom:30px;
+  margin-top: 10px;  
+}
+.surpass{
+    margin-top: 150px;
+}
+.largest{
+  margin-top: 70px;  
+}
+.reputable{
+    margin-top: 200px;
+} 
+.pool{
+    margin-top:100px;
+} 
+
+.partners{
+  font-size: 30px;
+  color: rgb(91, 15, 29);
+}
+.parent{
+  margin-bottom: 50px;
+}
+
+.small{
+  font-size: 15px; 
+  color: rgb(194, 72, 95); 
+  margin-bottom: 50px;
+}
+.big{
+  color: #6bc481;   
+}
+
+
+.containerdone{
+  background-color:#0a501b; 
+  color:white; 
+  font-size: 10px;
+  padding-top:10px;
+}
+.socials{
+  padding-left: 300px;
+  margin-bottom: 10px;
+}
+.fab {
+  color: white !important;
+}
+.more{
+  margin-top: 20px;;
+}
+
+
+
+
+
+
+
+.den{
+  color: #0e0d0d;
+}
+a:link {
+  text-decoration: none;
+}
+
+
+.swiper-container {
+  width: 100%;
+  height: 100%;
+  
+}
+
+
+.swiper-full-mobile {
+position: relative;
+margin: 50px auto;
+padding-bottom: 50px;
+}
+
+.swiper-full-mobile:before {
+content: "";
+width: 265px;
+
+background-size: 100%;
+background-repeat: no-repeat;
+position: absolute;
+left: 0;
+right: 0;
+top: 0px;
+height: 565px;
+z-index: 2;
+margin: auto;
+}
+.swiper-full-mobile .swiper-slide {
+height: 100%;
+}
+.swiper-full-mobile .swiper-slide img{
+width: 100%;
+/* height: 250px; */
+object-fit: cover;
+
+}
+
+.swiper-button-prev, .swiper-container-rtl .swiper-button-next {
+background-image: url(/image/leftarrow.png);
+left: 10px;
+right: auto;
+}
+
+.swiper-button-next, .swiper-container-rtl .swiper-button-prev {
+background-image: url(/image/rightarrow.png);
+right: 10px;
+left: auto;
+}
+
+
+#mySidenav a {
+  position: fixed;
+  left: 10px;
+  transition: 0.3s;
+  padding: 15px;
+  width: 40px;
+  height:40px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  border-radius: 0 5px 5px 0;
+  margin-top:500px;
+}
+
+
+
+.copy{
+   padding-left: 200px;
+}
+
+.privacy{
+   font-size: 15px;
+}
+
+.bg-light {
+  background-color: #1b7233!important;
+  
+}
+.text-muted {
+  color: #fbfbfb!important;
+}
+.dame{
+  margin-right: 500px!important;
+}
+
+.use{
+padding-left:200px;
+font-size: 13px;
+} 
+.policy{
+  margin-left:50px;
+  font-size: 13px;   
+}
+.disclaimer{
+  margin-left:20px;
+  font-size: 13px;   
+}
+
+.dot{
+  font-size: 1px;
+}
+/* .more{
+  margin-top: 15px;
+} */
+.sector{
+  padding-left:200px;
+}
+
+.lake{
+  font-size: 13px;
+  padding-left: 50px;
+
+}
+.lawn{
+
+  font-size: 13px;
+}
+.lastly{
+  margin-left:-12px;
+  margin-top: -25px;
+  width: 330px;
+  height: 150px;
+  /* margin-right: -20px; */
+}
+.stay{
+  padding-left:100px;
+}
+.below {
+  margin-bottom:50px!important;
+}
+.hovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+}
+
+.hovereffect .overlay1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.hovereffect:hover .overlay1 {
+  margin-top: 30px;
+  background-color: rgba(27, 8, 8, 0.4);
+}
+
+.hovereffect h2, .hovereffect .img-respond {
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.hovereffect .img-respond {
+  display: block;
+  position: relative;
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.hovereffect:hover .img-respond {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+
+.hovereffect h2 {
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  font-size: 17px;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.hovereffect a.info {
+  display: inline-block;
+  text-decoration: none;
+  /* padding: 7px 14px; */
+  text-transform: uppercase;
+  color: #fff;
+  border: 1px solid #fff;
+  margin: 20px 0 0 0;
+  background-color: transparent;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  transform: scale(1.5);
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+  font-weight: normal;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: -20%;
+  left: 0%;
+  padding-top: 70px;
+  /* padding: 70px; */
+}
+
+.hovereffect:hover a.info {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  background-color: rgba(68, 64, 64, 0.4);
+}
+
+.read{
+color: green;
+}
+
+.containerdel{
+  margin-left: 200px;
+  margin-right:150px ;
+}
+
+.bg-lightname {
+  background-color: #ffff!important;
+  height: 5rem;
+  box-shadow: 0 0rem 1rem #ecafb2;
+}
+.logo{
+  height: auto;
+  width: auto;
+  max-height: 60px;
+  max-width: 250px; 
+  width: 60px;
+  height: 40px;
+  border-radius: 20%;
+  overflow: hidden;
+  margin-top: -10px;
+   color:#5b0f1d;
+}
+.smart{
+  font-family: 'Lusitana', serif;
+  font-weight: bolder;
+   font-size: 30px; 
+   color:#0a501b;
+  /* line-height: 10px; */
+   /* width: 100px; */
+  margin-left: 10px;
+  
+  
+   /* margin-bottom: -5px; */
+  /* padding-top: 30px; */
+}
+.navbar-nav {
+  padding-left: 300px;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #5b0f1d;
+}
+.navbar-light .navbar-brands{
+  color:#0a501b
+}
+.smart .navbar-brands{
+  margin-bottom: 100px;
+}
+.fa-dot-circle{
+  font-size: 20px;
+}
+.day{
+  margin-left: 130px!important;
+}
+.closer{
+  padding-left: 35px;
+}
+.closest{
+  padding-left: 35px;  
+}
+ .fastLinks{
+  line-height:1.6px!important;
+  font-size: 14px;
+} 
+.fast{
+  font-size: 14px;
+}
+.cac{
+  font-size: 14px; 
+}
+.change{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 13px;
+  padding-top: 13px;
+    font-size: .875rem;
+    line-height: 1.6;
+}
+
+
+.btn-success {
+  color: rgb(255, 255, 255);
+  background-color: rgb(91, 15, 29);
+}
+
+.bg-light {
+  background-color: rgb(160, 51, 71) !important;
+}
+
+@media screen and (max-width: 833px){
+  .smart{font-size: 12px;
+    margin-left:-10px;
+  }
+  .logo{
+   width: 50px; 
+  }
+  .registered{
+    font-size:15px ;
+  }
+  
+  .limited{
+    font-size:10px ;  
+  }
+  
+  .nigeria{
+    font-size:15px ;
+  }
+  .responsible{
+    font-size:10px ;  
+  }
+  
+  .management{
+    font-size:15px ;
+   
+  }
+  .establish{
+    font-size:10px ; 
+  }
+  
+  .areas{
+    font-size:15px ;
+  
+  }
+  .voters{
+    font-size:10px ;}
+    .containernew{
+      padding-left:50px;
+    }
+    .containernewthird{
+      padding-left:50px;
+    }
+    .containernewtwo{
+      padding-left:50px;
+    }
+    .containernewone{
+      padding-left:50px;
+      padding-bottom: 70px; 
+    }
+    .change{
+      padding-left: 13px;
+    padding-right: 13px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+      font-size: .400rem;
+      line-height: 1.3;
+    }
+    .electronic{
+      font-size: 15px;
+    }
+
+    .harmonized{
+      margin-bottom:70px;
+    }
+    .wider{
+      font-size: 10px;
+    }
+    .project{
+      margin-left: -50px;
+    }
+    .lastly{
+      width: 220px;
+    }
+    .mobileclient{ 
+      margin-top: -30px;
+    }
+    .one{
+      margin-top: 30px;
+    }
+    .operations{
+        padding-left: 13px;
+      padding-right: 13px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+        font-size: .400rem;
+        line-height: 1.3;
+      }
+      .surpasses{
+        padding-left: 13px;
+        padding-right: 13px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+          font-size: .400rem;
+          line-height: 1.3;
+      }
+      .large{
+        padding-left: 13px;
+        padding-right: 13px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+          font-size: .400rem;
+          line-height: 1.3; 
+      }
+
+      .repute{
+        padding-left: 13px;
+        padding-right: 13px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+          font-size: .400rem;
+          line-height: 1.3; 
+      }
+
+      .pooles{
+        padding-left: 13px;
+        padding-right: 13px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+          font-size: .400rem;
+          line-height: 1.3; 
+      }
+
+      .partners{
+        font-size:18px;
+      }
+      .collection{
+        font-size: 15px;
+      }
+      .small{
+        font-size: 15px;
+      }
+
+      .containerdel{
+        width:250px;
+        margin-left: 40px;
+      }
+.hovereffect{
+  margin-bottom: 20px;
+}
+.sector{
+  padding-left:0px;
+}
+.lake{
+  padding-left:50px;
+}
+.use{
+  padding-left:20px;
+}
+.policy{
+  margin-left:20px
+}
+.stay{
+  padding-left:30px;
+}
+.swiper-button-next, .swiper-button-prev{
+  width:28px!important;
+  height:15px!important;
+}
+
+    
+} 
+
+@media screen and (max-width: 1366px) and (min-width: 1024px) { 
+.smart{
+  font-size:15px;
+}
+.logo{
+  margin-top:1px;
+}
+.lastly{
+  width: 232px;
+}
+.surpass{
+  margin-top: 180px;
+}
+.sector{
+  padding-left: 50px;
+}
+.use{
+  padding-left: 100px;
+}
+.policy{
+  padding-left: 30px;
+}
+
+}
+
+
+
+
+/* 
+  .logo{
+    height: 40px;
+    width: 40px;
+    margin-top: px;
+  }
+  .smart{
+    font-size: 20px;
+  }
+  .navbar-nav {
+    padding-left: 100px
+;}
+.registered{
+  font-size:25px ;
+}
+
+.limited{
+  font-size:20px ;  
+}
+
+.nigeria{
+  font-size:25px ;
+}
+.responsible{
+  font-size:20px ;  
+}
+
+.management{
+  font-size:25px ;
+ 
+}
+.establish{
+  font-size:20px ; 
+}
+
+.areas{
+  font-size:25px ;
+
+}
+.voters{
+  font-size:20px ;}
+
+  .change{
+    padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 13px;
+  padding-top: 13px;
+    font-size: .700rem;
+    line-height: 1.6;
+  }
+  .lastly{
+    width: 286px;
+  }
+
+} */
+
+/* @media screen and (max-width: 833px) and (min-width: 768px) { 
+  div.project{
+    padding-top: 0px;
+}
+
+.container2{
+  margin-left: 0px;
+}
+
+.surpass{
+  margin-top: 275px;
+  
+}
+.lake{
+  padding-left: 0px;
+  margin-left: -10px;
+}
+.use{
+  padding-left:50px;
+}
+.stay{
+  padding-left:50px;
+}
+
+.reputable{
+  margin-top: 280px;
+  /* margin-bottom:50px; */
+/* }
+
+.pool{
+  margin-bottom:50px;
+}
+
+.largest{
+  margin-top:155px;
+}  */
+
+/* .hovereffect{
+  width: 400px;
+  margin-left:200px;
+}
+
+.title{
+  text-align:center
+} */
+
+/* .containerdel{
+  margin-left: 0px;
+  margin-right:0px ;
+}
+
+.mobilexmasspecial2{
+  margin-top:50px
+}
+
+.mobilexmasspecial3{
+  margin-top:50px
+}  */
+
+/* .sector{
+padding-left:10px!important;
+}
+
+.swiper-button-next, .swiper-button-prev{
+  width:27px!important;
+  height:17px!important;
+}
+
+.mobilecenterimage{
+  text-align:center
+}
+
+.containernew{
+  padding-left:200px
+}
+
+.containernewone{
+  
+  padding-left: 200px;
+
+  
+}
+.containernewtwo{
+  padding-left: 200px;
+} */
+
+/* .containernewthird{
+  padding-left: 200px;
+}
+
+.registered{
+  font-size:25px ;
+}
+
+.limited{
+  font-size:20px ;  
+}
+
+.nigeria{
+  font-size:25px ;
+}
+.responsible{
+  font-size:20px ;  
+}
+
+.management{
+  font-size:25px ;
+ 
+}
+.establish{
+  font-size:20px ; 
+} */
+
+/* .areas{
+  font-size:25px ; */
+  /* margin-top: 100px; */
+/* }
+.voters{
+  font-size:20px ; */
+
+  /* margin-left: -10px;   */
+/* }
+
+.smart{
+  font-size:20px
+} */
+
+/* .navbar-nav {
+  padding-left: 0px;
+  background-color: #fff;
+}
+
+.logo{
+  width:40px;
+  height:40px;
+  margin-top: -5px;
+}
+
+.lastly{
+  width:150px;
+}
+
+} */
+
+/* @media screen and (max-width: 766px) and (min-width: 586px) {
+  .project{
+    margin-bottom: 30px;
+  }
+  
+  .lake{
+      padding-left: 0px;
+      margin-left: -200px;
+    }
+    .use{
+      padding-left:50px;
+    }
+    .stay{
+      padding-left:50px;
+    }
+  .smart{
+    font-size: 20px;
+  }
+  .registered{
+    font-size:20px ;
+  }
+  .lastly{
+  
+    width:540px;
+  }
+  
+  .limited{
+    font-size:15px ;  
+  }
+  
+  .nigeria{
+    font-size:20px ;
+  }
+  .responsible{
+    font-size:15px ;  
+  }
+  
+  .management{
+    font-size:20px ;
+   
+  }
+  .establish{
+    font-size:15px ; 
+  }
+  
+  .areas{
+    font-size:20px ;
+    /* margin-top: 100px; */
+  /* } */
+  /* .voters{
+    font-size:15px ;}
+  
+    .change{
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 13px;
+      padding-top: 13px;
+        font-size: .700rem;
+        line-height: 1.6;
+    }
+  }  */
+
+  /* @media screen and (max-width: 375px) {
+    .smart{
+      font-size: 15px;}
+      .logo{
+        width:30px;
+        height:30px;
+        margin-top:0px;
+      }
+      .registered{
+        font-size:15px ;
+      }
+      
+      .limited{
+        font-size:10px ;  
+      }
+      
+      .nigeria{
+        font-size:15px ;
+      }
+      .responsible{
+        font-size:10px ;  
+      }
+      
+      .management{
+        font-size:15px ;
+       
+      }
+      .establish{
+        font-size:10px ; 
+      }
+      
+      .areas{
+        font-size:15px ;
+      
+      }
+      .voters{
+        font-size:10px ;}
+      
+        .change{
+          padding-left: 13px;
+        padding-right: 13px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+          font-size: .500rem;
+          line-height: 1.3;
+        }
+  
+        .containernew{
+          
+          padding-left:50px;
+        }
+        .containernewthird{
+          padding-left:50px; 
+        }
+        .containernewtwo{
+          padding-left:50px;
+          margin-bottom:50px;
+        }
+        .containernewone{
+          padding-left:50px; 
+        }
+  
+        .electronic{
+          font-size:20px;
+        }
+        .wider{
+          font-size: 15px;
+        }
+        .lastly{
+          width:275px;
+        }
+        .partners{
+          font-size:20px;
+        }
+        .containerdel{
+          margin-left:40px;
+        }
+        .hovereffect{
+          width:300px;
+        }
+        span.lawn{
+  padding-left:30px;
+        }
+        .use{
+  margin-left: 50px;
+        }
+        .stay{padding-left:60px;}
+  }
+   */
+  /* @media screen and (max-width: 414px) {
+    .lawn{
+      margin-left:5px;
+    }
+    .use{
+  margin-left: 3px;
+  padding-left: 20px;
+    }
+    .below{
+      margin-left: -20px;
+    }
+    .hovereffect{
+      width:330px;
+    }
+    .containerdel{
+      margin-left:40px;
+    }
+    .collection{
+      padding-left:20px;
+      padding-right:20px;
+    }
+    .small{
+      padding-left:20px;
+      padding-right:20px;
+    }
+    .partners{
+      font-size:20px;
+    }
+    .lastly{
+      width:315px;
+    }
+    .mobileclient{
+      margin-top:-50px;
+    }
+  
+    .registered{
+      font-size:15px ;
+    }
+    
+    .limited{
+      font-size:10px ;  
+    }
+    
+    .nigeria{
+      font-size:15px ;
+    }
+    .responsible{
+      font-size:10px ;  
+    }
+    
+    .management{
+      font-size:15px ;
+     
+    }
+    .establish{
+      font-size:10px ; 
+    }
+    
+    .areas{
+      font-size:15px ;
+    
+    }
+    .voters{
+      font-size:10px ;}
+  
+      .change{
+        padding-left: 10px;
+      padding-right: 10px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+        font-size: .500rem;
+        line-height: 1.3;
+      }
+    .smart{font-size:15px;}
+    .logo{
+      height:40px;
+      width:40px;
+      padding-top: 5px;
+    }
+    .containernew{
+      padding-left: 60px;
+      padding-bottom: 150px;
+    }
+    .containernewtwo{
+      padding-bottom: 150px;
+    }
+    .containernewone{
+      padding-bottom: 100px;
+    }
+  
+    .electronic{
+      font-size: 20px;
+    }
+    .wider{
+      font-size: 15px;
+      }
+    } */
+
+    /* @media screen and (max-width: 1024px) {
+  
+      .registered{
+        font-size:20px ;
+      }
+      
+      .limited{
+        font-size:15px ;  
+      }
+      
+      .nigeria{
+        font-size:20px ;
+      }
+      .responsible{
+        font-size:15px ;  
+      }
+      
+      .management{
+        font-size:20px ;
+       
+      }
+      .establish{
+        font-size:15px ; 
+      }
+      
+      .areas{
+        font-size:20px ;
+      
+      }
+      .voters{
+        font-size:15px ;}
+    
+        .change{
+          padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 13px;
+        padding-top: 13px;
+          font-size: .700rem;
+          line-height: 1.6;
+        }
+    
+        .lastly{
+          width: 232px;
+        }
+    
+        .surpass{
+          margin-top:180px;
+        }
+    
+        .use{
+          padding-left: 50px;
+        }
+        .sector{
+          padding-left:100px;
+        }
+    
+    
+    } */
+
+    /* @media screen and (max-width: 540px) {
+      .registered{
+        font-size:20px ;
+      }
+      
+      .limited{
+        font-size:15px ;  
+      }
+      
+      .nigeria{
+        font-size:20px ;
+      }
+      .responsible{
+        font-size:15px ;  
+      }
+      
+      .management{
+        font-size:20px ;
+       
+      }
+      .establish{
+        font-size:15px ; 
+      }
+      
+      .areas{
+        font-size:20px ;
+        /* margin-top: 100px; */
+      /* } */
+      /* .voters{
+        font-size:15px ;}
+    
+        .containernew{
+          padding-left:90px;
+        }
+        .containernewthird{
+          padding-left:90px; 
+        }
+        .containernewtwo{
+          padding-left:90px; 
+        }
+        .containernewone{
+          padding-left:90px;
+        }
+        .change{
+          padding-left: 15px;
+          padding-right: 15px;
+          padding-bottom: 10px;
+          padding-top: 10px;
+            font-size: .700rem;
+            line-height: 1.6;
+        }
+        .project{
+          margin-bottom: 20px;
+          margin-right: 30px;
+          margin-left: -50px;
+        }
+        .lastly{
+          width: 437px;
+          margin-left:-12px;
+        }
+        .sector{
+          margin-left:-150px;
+        }
+        .use{
+          margin-left:-180px;
+        }
+        .policy{
+          margin-left:30px;
+        }
+        .stay{
+          padding-left:20px;
+        }
+        .hovereffect{
+          width:400px;
+        }
+        .containerdel{
+          margin-left:80px;
+        }
+        .mobilexmasspecial2{
+          padding-top: 30px;
+        }
+        .mobilexmasspecial3{
+          padding-top:30px;
+        }
+    
+    } */
